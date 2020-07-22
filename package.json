@@ -35,7 +35,6 @@
     "testURL": "https://example.com"
   },
   "dependencies": {
-    "humanize-duration": "^3.23.1",
-    "iso8601-duration": "^1.2.0"
+    "humanize-duration": "^3.23.1"
   }
 }
