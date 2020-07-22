@@ -36,5 +36,6 @@
   },
   "dependencies": {
     "humanize-duration": "^3.23.1"
-  }
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
