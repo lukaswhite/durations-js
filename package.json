@@ -1,5 +1,5 @@
 {
-  "name": "durations-js",
+  "name": "@lukaswhite/durations-js",
   "version": "0.1.0",
   "description": "A small JS library for working with durations.",
   "main": "lib/index.js",
